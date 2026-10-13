@@ -1,0 +1,267 @@
+html{scroll-behavior:smooth}body{margin:0}.react-skip{position:fixed;left:1rem;top:-100px;z-index:9999;padding:12px;background:white;color:black}.react-skip:focus{top:1rem}.elementor-invisible{visibility:visible!important}.e-con.e-parent{opacity:1}.elementor-nav-menu--main .sub-menu{display:none;position:absolute;z-index:50;min-width:200px;background:white;box-shadow:0 8px 20px #0002}.elementor-nav-menu--main li:hover>.sub-menu,.elementor-nav-menu--main li:focus-within>.sub-menu{display:block}.elementor-nav-menu li{position:relative}.elementor-nav-menu--main .sub-menu a{padding:12px 20px;display:block}.elementor-nav-menu--dropdown[aria-hidden=true]{display:none}.elementor-menu-toggle{cursor:pointer}.elementor-menu-toggle.elementor-active .elementor-menu-toggle__icon--open{display:none}.elementor-menu-toggle:not(.elementor-active) .elementor-menu-toggle__icon--close{display:none}[data-react-slides]{transition:background-image .7s ease}.elementskit-single-image-accordion{min-height:300px;background-size:cover;background-position:center}.elementskit-single-image-accordion:hover .elementskit-image-accordion-content{opacity:1;visibility:visible}.not-found{padding:100px 8%}.form-notice{width:100%;padding:16px;background:#fff3d9;color:#35250d}.elementor-form input,.elementor-form textarea{max-width:100%}img{max-width:100%}:focus-visible{outline:3px solid #ed9d28;outline-offset:3px}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}@media(max-width:767px){.elementor-nav-menu--dropdown{width:100%;position:relative}.elementor-nav-menu--dropdown ul{list-style:none;padding:0}.elementor-nav-menu--dropdown a{display:block;padding:12px 16px}.elementor-nav-menu--dropdown .sub-menu{padding-left:20px}.elementskit-image-accordion-wraper{flex-direction:column!important}.elementskit-single-image-accordion{width:100%!important}body{overflow-x:hidden}}
+
+/* Restore the dark footer background */
+.elementor-182 .elementor-element-24fed091,
+.elementor-182 .elementor-element-35198ca5 {
+  background-color: #171717 !important;
+  color: #ffffff !important;
+}
+
+.elementor-182 .elementor-element-24fed091 a,
+.elementor-182 .elementor-element-24fed091 h2,
+.elementor-182 .elementor-element-24fed091 .elementor-icon-list-text,
+.elementor-182 .elementor-element-35198ca5 a {
+  color: #ffffff !important;
+}
+
+/* Yellow contact section with navy blue text */
+.elementor-182 .elementor-element-57dc12bc,
+.elementor-182 .elementor-element-7baa92a {
+  background-color: #ffd43b !important;
+}
+
+.elementor-182 .elementor-element-57dc12bc .elementor-heading-title,
+.elementor-182 .elementor-element-57dc12bc a,
+.elementor-182 .elementor-element-7baa92a .elementor-heading-title,
+.elementor-182 .elementor-element-7baa92a a {
+  color: #102a43 !important;
+}
+
+/* Core Team and Finance & HR banners */
+#content :is(
+  .elementor-element-4fb15c27,
+  .elementor-element-8eaec8b,
+  .elementor-element-e89d222
+) {
+  background: #102a43 !important;
+}
+
+#content :is(
+  .elementor-element-4fb15c27,
+  .elementor-element-8eaec8b,
+  .elementor-element-e89d222
+) * {
+  color: #ffffff !important;
+  -webkit-text-stroke: 0 !important;
+}
+
+#content :is(
+  .elementor-element-4fb15c27,
+  .elementor-element-8eaec8b,
+  .elementor-element-e89d222
+) > .elementor-background-overlay {
+  background: transparent !important;
+}
+
+/* Larger banner text */
+#content :is(
+  .elementor-element-4fb15c27,
+  .elementor-element-8eaec8b,
+  .elementor-element-e89d222
+) :is(h1, h2, h3, h4, h5, h6) {
+  font-size: clamp(32px, 4vw, 56px) !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+}
+
+/* Smaller label above the main title */
+#content :is(
+  .elementor-element-4fb15c27,
+  .elementor-element-8eaec8b,
+  .elementor-element-e89d222
+) .elementor-heading-title {
+  font-size: clamp(20px, 2.5vw, 30px) !important;
+}
+
+/* Main banner title */
+#content :is(
+  .elementor-element-4fb15c27,
+  .elementor-element-8eaec8b,
+  .elementor-element-e89d222
+) :is(h1, h2) {
+  font-size: clamp(26px, 3vw, 46px) !important;
+}
+
+/* About Us: navy blue text panel */
+#content :is(
+  .elementor-element-5d1eb820,
+  .elementor-element-4f7f139
+) > .elementor-widget-wrap {
+  background: #020729 !important;
+  padding: 60px 30px !important;
+}
+
+/* About Us label, subtitle and paragraph */
+#content :is(
+  .elementor-element-5d1eb820,
+  .elementor-element-4f7f139
+) :is(.elementor-divider__text, .ekit-heading--subtitle, p) {
+  color: #ffffff !important;
+}
+
+/* Who We Are */
+#content :is(
+  .elementor-element-5d1eb820,
+  .elementor-element-4f7f139
+) .ekit-heading--title {
+  color: #ffa500 !important;
+  font-size: clamp(36px, 4vw, 68px) !important;
+  font-weight: 700 !important;
+  line-height: 1.15 !important;
+}
+
+/* SPECIALISTS / CAPABILITIES */
+#content :is(
+  .elementor-element-5d1eb820,
+  .elementor-element-4f7f139
+) .ekit-heading--subtitle {
+  font-size: clamp(32px, 4vw, 68px) !important;
+  font-weight: 700 !important;
+}
+
+/* Remove the separate paragraph box */
+#content :is(
+  .elementor-element-1917ebf9,
+  .elementor-element-dfdd6ac
+) .elementskit-infobox {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 20px 0 0 !important;
+}
+
+#content :is(
+  .elementor-element-1917ebf9,
+  .elementor-element-dfdd6ac
+) p {
+  font-size: clamp(16px, 1.2vw, 20px) !important;
+  line-height: 1.5 !important;
+}
+
+/* Hide the broken image layered over the existing photo */
+#content .elementor-element-d5e4de9 {
+  display: none !important;
+}
+
+/* Reduce space above the About Us text */
+#content :is(
+  .elementor-element-5d1eb820,
+  .elementor-element-4f7f139
+) > .elementor-widget-wrap {
+  padding-top: 16px !important;
+}
+
+/* Remove the line and extra space around the paragraph */
+#content :is(
+  .elementor-element-1917ebf9,
+  .elementor-element-dfdd6ac
+) .elementskit-infobox {
+  border: none !important;
+  padding-top: 0 !important;
+}
+
+#content :is(
+  .elementor-element-1917ebf9,
+  .elementor-element-dfdd6ac
+) .elementskit-infobox::before,
+#content :is(
+  .elementor-element-1917ebf9,
+  .elementor-element-dfdd6ac
+) .elementskit-infobox::after {
+  display: none !important;
+}
+
+#content :is(
+  .elementor-element-1917ebf9,
+  .elementor-element-dfdd6ac
+) .box-body {
+  border: none !important;
+  padding-top: 0 !important;
+}
+
+/* Fix the four featured project images */
+#content [style*="a5583348004d.jpg"] {
+  background-image: url("/assets/6b2d961d8b55.jpg") !important;
+}
+
+#content [style*="a44a7d296c6b.jpg"] {
+  background-image: url("/assets/725d21567326.jpg") !important;
+}
+
+#content [style*="6b89493dc344.jpg"] {
+  background-image: url("/assets/0e9b8fb9f518.jpg") !important;
+}
+
+#content [style*="c2d60ecbc1e3.png"] {
+  background-image: url("/assets/25576c32b3d0.png") !important;
+}
+
+/* Homepage image-and-text section: navy background, white text */
+#content :is(
+  .elementor-element-70baed61,
+  .elementor-element-23e765b
+),
+#content :is(
+  .elementor-element-70baed61,
+  .elementor-element-23e765b
+) .elementor-widget-wrap {
+  background-color: #102a43 !important;
+}
+
+/* Text panel spacing */
+#content :is(
+  .elementor-element-5675c069,
+  .elementor-element-fb6d459
+) > .elementor-widget-wrap {
+  padding: 16px !important;
+}
+
+/* White text */
+#content :is(
+  .elementor-element-70baed61,
+  .elementor-element-23e765b
+) * {
+  color: #ffffff !important;
+  -webkit-text-stroke: 0 !important;
+}
+
+/* SRC LAND BUILDING: larger and white */
+#content :is(
+  .elementor-element-43da3f7e,
+  .elementor-element-a7ce38e,
+  .elementor-element-e8b19ad,
+  .elementor-element-90ec253
+) .ekit-heading--title {
+  color: #ffffff !important;
+  font-size: clamp(30px, 3.5vw, 56px) !important;
+  font-weight: 700 !important;
+  line-height: 1.15 !important;
+}
+
+/* REAL ESTATE: larger and yellow */
+#content :is(
+  .elementor-element-9d60f99,
+  .elementor-element-d3eb9d0,
+  .elementor-element-e7742de,
+  .elementor-element-0ae616f
+) .ekit-heading--title {
+  color: #ffd43b !important;
+  font-size: clamp(30px, 3.5vw, 56px) !important;
+  font-weight: 700 !important;
+  line-height: 1.15 !important;
+}
+
+/* Maintenance credit: white background, navy text */
+footer.elementor-182 .elementor-element-35198ca5,
+footer.elementor-182 .elementor-element-35198ca5 .elementor-widget-wrap,
+footer.elementor-182 .elementor-element-35198ca5 .elementor-widget-container {
+  background: #ffffff !important;
+}
+
+footer.elementor-182 .elementor-element-35198ca5 * {
+  color: #102a43 !important;
+}
+
+footer.elementor-182 .elementor-element-35198ca5 > .elementor-background-overlay {
+  background: transparent !important;
+}
