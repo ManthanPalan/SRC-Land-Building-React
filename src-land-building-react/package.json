@@ -1,1 +1,22 @@
-{"name":"src-land-building-react","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"dependencies":{"react":"^19.1.0","react-dom":"^19.1.0","html-react-parser":"^5.2.5"},"devDependencies":{"vite":"^7.0.0"}}
+{
+  "name": "src-land-building-react",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "vite": "^7.0.0",
+    "esbuild": "^0.28.2",
+    "htmlparser2": "^10.1.0"
+  }
+}

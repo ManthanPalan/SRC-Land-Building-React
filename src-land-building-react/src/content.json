@@ -1,0 +1,167 @@
+{
+  "team": [
+    {
+      "name": "Alex Freeman",
+      "role": "Construction Manager & GC",
+      "bio": "Alex Freeman is the Construction Manager and General Contractor. He provides exceptional leadership and strategic oversight across engineering, financing, project management, construction, and leasing operations. He is responsible for ensuring that every project transitions seamlessly from concept to completion, aligning cross-functional teams, maintaining timelines, and upholding the highest quality standards. Known for his collaborative approach and innovative mindset, Alex’s dedication to excellence continues to strengthen Pinnacle Plaza’s reputation in retail construction and leasing.",
+      "image": "/assets/0c8b5e4ec612.jpg",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Kiran Nandyala",
+      "role": "Construction Project Manager",
+      "bio": "Kiran Nandyala serves as the Construction Project Manager, where she plays a key role in overseeing commercial construction projects from initial planning through successful completion. She is responsible for managing cost estimation, bid proposals, pay applications, and project scheduling — ensuring that each phase aligns with budgetary goals and operational timelines. Kiran works closely with subcontractors, vendors, and internal teams to maintain project efficiency while upholding safety regulations, contracts, and industry standards. Her proactive approach to risk analysis and problem-solving helps optimize both performance and cost-effectiveness across all construction initiatives.",
+      "image": "/assets/e0a36c3c3bac.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Irshad Khan",
+      "role": "Assistant Project Manager",
+      "bio": "Irshad Khan is an Assistant Project Manager who plays an integral role in guiding construction projects from planning to completion. He is responsible for defining project scope, objectives, and deliverables while identifying potential risks and developing effective mitigation strategies. Irshad manages budgeting, resource allocation, and scheduling to ensure projects stay on track and within financial goals. Through consistent communication with clients, contractors, and senior leadership, he ensures transparency and collaboration at every stage. Known for his precision and professionalism, Irshad oversees daily operations, ensures compliance with safety regulations and building codes, and negotiates contracts with subcontractors and suppliers to drive successful project outcomes.",
+      "image": "/assets/746f2a8123b7.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Mahdi Tokhi",
+      "role": "Construction and Civil Coordinator",
+      "bio": "Mahdi Tokhi is a Construction and Civil Coordinator who plays a vital role in ensuring smooth communication and coordination across teams, vendors, and city or county offices. He focuses on schedule-driven project management, ensuring that timelines and milestones are consistently met. Mahdi oversees site visits and collaborates closely with engineers and general contractors to manage construction schedules, budgets, and change orders effectively. Through his proactive approach and attention to detail, he helps streamline operations, resolve challenges, and maintain steady project progress from planning through execution.",
+      "image": "/assets/a26862bd2338.jpg",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Hemanth Devanaboina",
+      "role": "Designer",
+      "bio": "Hemanth Devanaboina is a Designer with a strong focus on supporting project planning, design coordination, and resource management across all phases of construction. He works closely with Project Managers and Senior Architects to ensure that design objectives align with project timelines, budgets, and quality standards. Hemanth contributes to the creation and review of project designs, ensuring compliance with building codes, safety regulations, and industry best practices. He also collaborates with cross-functional teams and manages resources to ensure smooth project execution. With strong analytical and problem-solving skills, Hemanth continues to refine his expertise in project management, budgeting, scheduling, and stakeholder communication.",
+      "image": "/assets/1e55e6a6dbae.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Rugved Tandel",
+      "role": "Land Development and Demographics Planner",
+      "bio": "Rugved Tandel is a Land Development and Demographics Planner with expertise in real estate strategy, site development, and franchise coordination. He is responsible for identifying and evaluating potential sites through comprehensive demographic and market analysis to support strategic growth initiatives. Rugved oversees site acquisition, zoning submissions, and city approvals, ensuring all projects meet regulatory and business objectives. He manages negotiations, reviews legal agreements, and coordinates with franchise partners and corporate teams to streamline development processes. With a focus on financial oversight, he also manages real estate budgets, property leasing, and the performance of leased sites — contributing to efficient expansion and long-term operational success.",
+      "image": "/assets/68bfc270bc77.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Shriyanshu Kumar",
+      "role": "Land Development and Demographic Planner",
+      "bio": "Shriyanshu Kumar is a Land Development and Demographics Planner specializing in real estate planning, site development, and strategic growth analysis. He is responsible for identifying and evaluating potential sites through detailed demographic research and feasibility studies. Shriyanshu manages end-to-end development activities, including site acquisition, zoning submissions, and city approvals, while ensuring compliance with all regulatory requirements. He also plays a key role in coordinating with franchise partners and corporate teams to align project goals and timelines. In addition, Shriyanshu oversees contract negotiations, legal reviews, and real estate budgeting, as well as leasing and management of properties — ensuring efficient operations and sustainable expansion strategies.",
+      "image": "/assets/86516ed4f3e5.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Herkiran Kaur",
+      "role": "Urban Planner",
+      "bio": "Herkiran Kaur is an Urban Planner with expertise in site planning, development coordination, and municipal liaison. She is responsible for creating initial site plan layouts and collaborating with city officials to secure preliminary project qualifications. Herkiran conducts due diligence for new sites, assessing utilities, flood zones, and easement considerations to ensure compliance and feasibility. She also manages contract preparation, communication, and retail lease negotiations, maintaining strong relationships with stakeholders throughout the development process. In addition to her field responsibilities, Herkiran oversees and mentors the back-office team, providing training, direction, and task management to ensure smooth project execution and operational efficiency.",
+      "image": "/assets/56ca59962344.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Sonal Tandel",
+      "role": "Real Estate Planner",
+      "bio": "Sonal Tandel is a Real Estate Planner with a strong focus on real estate strategy, site development, and franchise coordination. She is responsible for identifying and evaluating new sites through comprehensive demographic and market analysis to support business growth and expansion. Sonal oversees every stage of development — from site acquisition and zoning submissions to city approvals and contract negotiations — ensuring that all projects meet operational, financial, and regulatory standards. She also reviews legal agreements, manages real estate budgets, and coordinates leasing activities for owned and managed properties. With her analytical approach and attention to detail, Sonal ensures that each development initiative is executed efficiently and strategically.",
+      "image": "/assets/158c8390c3f4.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Amaresh Kumar Tavva",
+      "role": "Construction Admin",
+      "bio": "Amaresh Kumar Tavva serves as a Construction Admin, supporting project planning, design coordination, and resource management across various construction phases. He works closely with Project Managers and Senior Architects to ensure smooth execution and delivery of projects while maintaining timelines, budgets, and compliance standards. Amaresh actively contributes to design development and review, ensuring adherence to building codes, safety regulations, and quality benchmarks. He collaborates with cross-functional teams, manages day-to-day operations, and supports effective communication among stakeholders. With strong analytical and problem-solving abilities, Amaresh continues to build his expertise in project management, budgeting, scheduling, and operational efficiency.",
+      "image": "/assets/2e16d945805a.png",
+      "group": "Development & construction"
+    },
+    {
+      "name": "Aditya Vikram Surana",
+      "role": "Project Financing Coordinator",
+      "bio": "Aditya Vikram Surana is a Project Financing Coordinator specializing in franchise financing and financial operations. He plays a key role in securing loans for franchise clients while representing the franchisor’s financial interests to ensure sustainable growth for both franchised and non-franchised schools. Aditya also provides comprehensive accounting support, including conducting payment reviews, managing financial documentation, and ensuring accurate processing for franchisees. With a strong understanding of project financing and operational accounting, he contributes to maintaining financial transparency, stability, and efficiency across all development initiatives.",
+      "image": "/assets/38a218292f51.png",
+      "group": "Finance & people"
+    },
+    {
+      "name": "Ishant Taneja",
+      "role": "Finance & Accounting",
+      "bio": "Ishant Taneja works in Finance & Accounting, where he manages financial data, loan projects, and banking coordination. His responsibilities include maintaining and updating financial records using Excel and Google Sheets, collaborating with bankers on SBA loan processes, and ensuring accurate communication of loan details to clients. Ishant also plays a key role in facilitating meetings between banks and customers to support smooth financial operations. In addition, he prepares comprehensive financial reports, including Profit & Loss statements and Balance Sheets. With a strong grasp of financial terminology and analytical precision, Ishant contributes to maintaining transparency, accuracy, and efficiency in all financial activities.",
+      "image": "/assets/922b820d6e64.png",
+      "group": "Finance & people"
+    },
+    {
+      "name": "Lesley Anne Guerrero",
+      "role": "Corporate HR",
+      "bio": "Lesley Anne Guerrero serves as the Corporate HR, overseeing the full spectrum of human resource operations and employee relations. She manages the end-to-end recruitment process — from sourcing and interviewing candidates to onboarding and offboarding employees. Lesley handles payroll processing for offshore staff, monitors attendance and leave records, and ensures that all HR documentation, including Podio entries and 201 files, remains up to date. She also addresses HR-related concerns, manages incident reports, and administers notices and contract terminations. With a strong commitment to organizational culture and compliance, Lesley plays a key role in fostering an efficient, transparent, and employee-centered workplace.",
+      "image": "/assets/18624997286e.png",
+      "group": "Finance & people"
+    }
+  ],
+  "properties": [
+    {
+      "id": "stone-oak",
+      "name": "Stone Oak",
+      "city": "San Antonio",
+      "address": "626 E Borgfeld Dr",
+      "url": "https://www.loopnet.com/Listing/626-E-Borgfeld-Dr-San-Antonio-TX/28855232/"
+    },
+    {
+      "id": "research-park",
+      "name": "Research Park",
+      "city": "San Antonio",
+      "address": "FM 1957 Potranco & Blue Lurkspur Rd",
+      "url": "https://www.loopnet.com/Listing/FM-1957-Potranco-Blue-Lurkspur-rd-San-Antonio-TX/29338969/"
+    },
+    {
+      "id": "georgetown",
+      "name": "Georgetown",
+      "city": "Georgetown",
+      "address": "2451 TX-29",
+      "url": "https://www.loopnet.com/Listing/2451-Tx-29-Georgetown-TX/19449122/"
+    },
+    {
+      "id": "mesquite",
+      "name": "Mesquite",
+      "city": "Mesquite",
+      "address": "705 State Hwy 352",
+      "url": "https://www.loopnet.com/Listing/705-State-Hwy-352-Mesquite-TX/28025984/"
+    },
+    {
+      "id": "saginaw",
+      "name": "Saginaw",
+      "city": "Saginaw",
+      "address": "Parkview Hills Ln",
+      "url": "https://www.loopnet.com/Listing/Parkview-Hills-Ln-Saginaw-TX/21122004/"
+    },
+    {
+      "id": "schertz",
+      "name": "Schertz",
+      "city": "Schertz",
+      "address": "5576 FM 1103",
+      "url": "https://www.loopnet.com/Listing/5576-FM-1103-Schertz-TX/21121186/"
+    },
+    {
+      "id": "culebra-land",
+      "name": "Culebra Land",
+      "city": "San Antonio",
+      "address": "14748 Culebra Rd",
+      "url": "https://www.loopnet.com/Listing/14748-Culebra-Rd-San-Antonio-TX/20909780/"
+    },
+    {
+      "id": "fate-land",
+      "name": "Fate Land",
+      "city": "Fate",
+      "address": "1001 Hwy 66",
+      "url": "https://www.loopnet.com/Listing/1001-Hwy-66-Fate-TX/29090625/"
+    },
+    {
+      "id": "rockwall",
+      "name": "Rockwall",
+      "city": "Rockwall",
+      "address": "900 E Ralph Hall Pkwy",
+      "url": "https://www.loopnet.com/Listing/900-E-Ralph-Hall-Pky-Rockwall-TX/21176979/"
+    },
+    {
+      "id": "st.-paul",
+      "name": "St. Paul",
+      "city": "Wylie",
+      "address": "2931 Parker Rd",
+      "url": "https://www.loopnet.com/Listing/2931-Parker-Rd-Wylie-TX/21039190/"
+    }
+  ]
+}
